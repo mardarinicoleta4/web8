@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+   html{ font-family: 'Quicksand', sans-serif;
+   }
+
+   h1{
+    font-size: 64px;
+    text-align: center;
+    background-color: burlywood;
+    color:chocolate;
+    
+   }
+
+   p{
+    text-align: center;
+    color: black;
+   }
+
+   table {
+    font-family:Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #918686;
+  }
+  
+
+
